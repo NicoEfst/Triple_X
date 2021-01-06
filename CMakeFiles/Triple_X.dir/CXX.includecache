@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/vscode/Triple_X/source/Level.cpp
+Level.h
+C:/Users/User/vscode/Triple_X/source/Level.h
+cassert
+-
+numeric
+-
+functional
+-
+ctime
+-
+
+C:/Users/User/vscode/Triple_X/source/Level.h
+string
+-
+memory
+-
+

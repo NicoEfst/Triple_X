@@ -1,0 +1,5 @@
+C:/Users/User/vscode/Triple_X/CMakeFiles/edit_cache.dir
+C:/Users/User/vscode/Triple_X/CMakeFiles/debug.dir
+C:/Users/User/vscode/Triple_X/CMakeFiles/release.dir
+C:/Users/User/vscode/Triple_X/CMakeFiles/Triple_X.dir
+C:/Users/User/vscode/Triple_X/CMakeFiles/rebuild_cache.dir
